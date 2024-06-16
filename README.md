@@ -3,7 +3,7 @@
 ## Overview
 
 
-This project involves analyzing cricket statistics data over the past three years to derive insights into player and team performance across various metrics including runs scored, batting averages, strike rates, wickets taken, bowling averages, economy rates, boundary percentages, and more.
+This project involves analyzing cricket statistics data over the past three years(2023,2022,2021) to derive insights into player and team performance across various metrics including runs scored, batting averages, strike rates, wickets taken, bowling averages, economy rates, boundary percentages, and more.
 
 ## DataSets
 Create a database called Ipl
