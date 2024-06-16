@@ -44,9 +44,9 @@ Create 4 tables with [dataset](https://github.com/Tamil-Selvan-R/IPL_2024_SQL_Pr
 ## Project Structure
 
 
-SQL Scripts: Contains SQL queries used for data extraction, transformation, and analysis.
-Database: Details the structure of the database schema used for this analysis.
-Results: Output of the top performers for each category based on SQL queries.
+1. SQL Scripts: Contains SQL queries used for data extraction, transformation, and analysis.
+2. Database: Details the structure of the database schema used for this analysis.
+3. Results: Output of the top performers for each category based on SQL queries.
 
 
 ## Conclusion
