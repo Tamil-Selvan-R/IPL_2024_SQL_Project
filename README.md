@@ -53,6 +53,7 @@ Create 4 tables with [dataset](https://github.com/Tamil-Selvan-R/IPL_2024_SQL_Pr
 
 The project successfully analyzed cricket statistics to highlight top performers across batting, bowling, and team performance metrics over the past three years. It provides valuable insights into player and team dynamics based on statistical data.
 
-Credits
+## Credits
+
 The project utilized data provided by [Code Basics](https://www.youtube.com/@codebasics)
 
