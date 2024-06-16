@@ -1,4 +1,4 @@
-# IPL_2024_SQL_Project
+# IPL_SQL_Project
 
 ## Overview
 
